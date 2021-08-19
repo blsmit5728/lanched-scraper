@@ -4,8 +4,8 @@
 // @category       Misc
 // @version        0.3.2
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://crowd.lanched.ru/portal-scraper.meta.js
-// @downloadURL    https://crowd.lanched.ru/portal-scraper.user.js
+// @updateURL      https://github.com/blsmit5728/lanched-scraper/raw/master/portal-scraper.user.js
+// @downloadURL    https://github.com/blsmit5728/lanched-scraper/raw/master/portal-scraper.user.js
 // @description    Scrapes all portals' locations
 // @include        https://*.ingress.com/intel*
 // @include        https://*.ingress.com/mission/*
